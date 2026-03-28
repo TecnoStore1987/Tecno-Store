@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "app_1",
+      "name": "Mi App Pro",
+      "packageName": "com.ejemplo.miapp",
+      "version": "2.0",
+      "description": "Nueva versión con mejoras.",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon.png",
+      "downloadUrl": "AQUÍ_IRÁ_EL_LINK_DE_LA_APK"
+    }
+  ]
+}
