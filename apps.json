@@ -13,9 +13,9 @@
     {
       "id": "epix_play",
       "name": "Epix Play",
-      "packageName": "com.tu.epixplay.epix",
+      "packageName": "com.epixplay.plus",
       "version": "1.2",
-      "versionCode": 12,
+      "versionCode": 377,
       "description": "Películas y series",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_epix.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.2/EPIX.PLAY_3.7.7.apk"
