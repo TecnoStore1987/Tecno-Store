@@ -20,6 +20,16 @@
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_epix.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v2.2/movies-nogms-tvbox.apk"      
     },
+      {
+      "id": "rbtv+",
+      "name": "rbtv +",
+      "packageName": "com.worldtv2.tvclasica",
+      "version": "2.0",
+      "versionCode": 100,
+      "description": "Televisión en vivo clásica",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v3.1/RBTV+.TV._3.0.317.apk"
+    },
     {
       "id": "epix_play",
       "name": "Epix Play",
