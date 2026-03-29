@@ -25,7 +25,7 @@
       "name": "Mi tv Pro",
       "packageName": "com.mitvpro.tv",
       "version": "1.1",
-      "versionCode": 5.7.11,
+      "versionCode": 5711,
       "description": "Televisión en vivo clásica Pro",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
@@ -35,7 +35,7 @@
       "name": "Punto Play",
       "packageName": "com.punto.playtv",
       "version": "1.0",
-      "versionCode": 7.0,
+      "versionCode": 70,
       "description": "Televisión en vivo punto play",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
