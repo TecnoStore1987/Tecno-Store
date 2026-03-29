@@ -1,22 +1,9 @@
 {
   "apps": [
     {
-      "id": "app_1",
-      "name": "Mi App Pro",
-      "packageName": "com.ejemplo.miapp",
-      "version": "2.0",
-      "description": "Nueva versión con mejoras.",
-      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon.png",
-      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v1.0/tu_archivo.apk"
-    }
-  ]
-}
-{
-  "apps": [
-    {
       "id": "tv_en_vivo",
       "name": "Tv en Vivo",
-      "packageName": "com.tu.packagename.tv", 
+      "packageName": "com.tu.packagename.tv",
       "version": "2.0",
       "description": "Televisión en vivo clásica",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
@@ -30,24 +17,24 @@
       "description": "Películas y series",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_epix.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.2/EPIX.PLAY_3.7.6_sign_sign.apk"
-       {
-      "id": "Mi tv Pro",
-      "name": "Tv en Vivo",
-      "packageName": "com.tu.packagename.tv", 
-      "version": "1.1.",
-      "description": "Televisión en vivo clásica",
+    },
+    {
+      "id": "mi_tv_pro",
+      "name": "Mi tv Pro",
+      "packageName": "com.tu.packagename.tvpro",
+      "version": "1.1",
+      "description": "Televisión en vivo clásica Pro",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
     },
-     {
-      "id": "Punto Play",
-      "name": "Tv en Vivo",
-      "packageName": "com.tu.packagename.tv", 
+    {
+      "id": "punto_play",
+      "name": "Punto Play",
+      "packageName": "com.tu.packagename.puntoplay",
       "version": "1.0",
-      "description": "Televisión en vivo clásica",
+      "description": "Televisión en vivo punto play",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
-    },
     }
   ]
 }
