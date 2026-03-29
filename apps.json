@@ -11,3 +11,43 @@
     }
   ]
 }
+{
+  "apps": [
+    {
+      "id": "tv_en_vivo",
+      "name": "Tv en Vivo",
+      "packageName": "com.tu.packagename.tv", 
+      "version": "2.0",
+      "description": "Televisión en vivo clásica",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.2.0/TV.CLASICA.Nueva.actualizacion_.apkdescargas.com.apk"
+    },
+    {
+      "id": "epix_play",
+      "name": "Epix Play",
+      "packageName": "com.tu.packagename.epix",
+      "version": "1.2",
+      "description": "Películas y series",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_epix.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.2/EPIX.PLAY_3.7.6_sign_sign.apk"
+       {
+      "id": "Mi tv Pro",
+      "name": "Tv en Vivo",
+      "packageName": "com.tu.packagename.tv", 
+      "version": "1.1.",
+      "description": "Televisión en vivo clásica",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
+    },
+     {
+      "id": "Punto Play",
+      "name": "Tv en Vivo",
+      "packageName": "com.tu.packagename.tv", 
+      "version": "1.0",
+      "description": "Televisión en vivo clásica",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
+    },
+    }
+  ]
+}
