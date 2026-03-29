@@ -3,9 +3,9 @@
     {
       "id": "tv_en_vivo",
       "name": "Tv en Vivo",
-      "packageName": "com.tu.tvenvivo.tv",
+      "packageName": "com.worldtv2.tvclasica",
       "version": "2.0",
-      "versionCode": 20,
+      "versionCode": 100,
       "description": "Televisión en vivo clásica",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.2.0/TV.CLASICA.Nueva.actualizacion_.apkdescargas.com.apk"
@@ -23,9 +23,9 @@
     {
       "id": "mi_tv_pro",
       "name": "Mi tv Pro",
-      "packageName": "com.tu.mitvpro.tvpro",
+      "packageName": "com.mitvpro.tv",
       "version": "1.1",
-      "versionCode": 11,
+      "versionCode": 5.7.11,
       "description": "Televisión en vivo clásica Pro",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
@@ -33,9 +33,9 @@
     {
       "id": "punto_play",
       "name": "Punto Play",
-      "packageName": "com.puntoplay.puntoplay",
+      "packageName": "com.punto.playtv",
       "version": "1.0",
-      "versionCode": 10,
+      "versionCode": 7.0,
       "description": "Televisión en vivo punto play",
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_tv.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
