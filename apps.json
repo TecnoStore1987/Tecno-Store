@@ -3,7 +3,7 @@
     {
       "id": "tv_en_vivo",
       "name": "Tv en Vivo",
-      "packageName": "com.tu.packagename.tv",
+      "packageName": "com.tu.Tv en Vivo.tv",
       "version": "2.0",
       "versionCode": 20,
       "description": "Televisión en vivo clásica",
@@ -13,7 +13,7 @@
     {
       "id": "epix_play",
       "name": "Epix Play",
-      "packageName": "com.tu.packagename.epix",
+      "packageName": "com.tu.Epix Play.epix",
       "version": "1.2",
       "versionCode": 12,
       "description": "Películas y series",
@@ -23,7 +23,7 @@
     {
       "id": "mi_tv_pro",
       "name": "Mi tv Pro",
-      "packageName": "com.tu.packagename.tvpro",
+      "packageName": "com.tu.Mi tv pro.tvpro",
       "version": "1.1",
       "versionCode": 11,
       "description": "Televisión en vivo clásica Pro",
@@ -33,7 +33,7 @@
     {
       "id": "punto_play",
       "name": "Punto Play",
-      "packageName": "com.tu.packagename.puntoplay",
+      "packageName": "com.Punto Play.puntoplay",
       "version": "1.0",
       "versionCode": 10,
       "description": "Televisión en vivo punto play",
