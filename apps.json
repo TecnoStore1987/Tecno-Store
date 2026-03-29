@@ -41,6 +41,16 @@
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v3.1/RBTV+.TV._3.0.317.apk"
     },
     {
+      "id": "VPN_Premium",
+      "name": "VPN Premium",
+      "packageName": "tv.VPN.app",
+      "version": "3.9",
+      "versionCode": 293,
+      "description": "VPN",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_Vpn.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v3.3/VPN.lat_3.9.34.apk"      
+    },
+    {
       "id": "epix_play",
       "name": "Epix Play",
       "packageName": "com.epixplay.plus",
