@@ -20,6 +20,16 @@
       "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_mlx.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v2.2/movies-nogms-tvbox.apk"      
     },
+     {
+      "id": "xuper_tv",
+      "name": "Xuper tv",
+      "packageName": "com.google.android.youtube.tvx1x",
+      "version": "4.99",
+      "versionCode": 4992,
+      "description": "Tv en vivo Películas y series",
+      "iconUrl": "https://raw.githubusercontent.com/TecnoStore1987/Tecno-Store/main/icon_xuper.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v4.99/Xuper.Tv+_4.99.2modperuano.apk"      
+    },
       {
       "id": "rbtv+",
       "name": "rbtv +",
