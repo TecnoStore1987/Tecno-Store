@@ -10,6 +10,16 @@
       "iconUrl": "https://img.freepik.com/vector-premium/ilustracion-icono-vectorial-logotipo-retro-television_7688-5531.jpg",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.2.0/TV.CLASICA.Nueva.actualizacion_.apkdescargas.com.apk"
     },
+    {
+      "id": "YouTube_Premium",
+      "name": "YouTube Premium",
+      "packageName": "com.Youtube.app",
+      "version": "3.4",
+      "versionCode": 3.4,
+      "description": "Videos y Musica",
+      "iconUrl": "https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v2.2/movies-nogms-tvbox.apk"      
+    },
      {
       "id": "Mxl_Movies",
       "name": "Mxl Movies",
@@ -18,7 +28,7 @@
       "versionCode": 241,
       "description": "Películas y series",
       "iconUrl": "https://image.winudf.com/v2/image1/dHYubXhsbW92aWVzLmFwcF9iYW5uZXJfMTU2MzA3ODgyNV8wOTg/banner.jpg?fakeurl=1",
-      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v2.2/movies-nogms-tvbox.apk"      
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v3.4/YouTube_base.apk"      
     },
      {
       "id": "xuper_tv",
