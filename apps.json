@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": "tv_en_vivo",
-      "name": "Tv en Vivo",
+      "name": "Tv en Vivo","description": "Canales de televisión abierta y cable en vivo con la mejor calidad HD.",
       "packageName": "com.worldtv2.tvclasica",
       "version": "2.0",
       "versionCode": 100,
@@ -12,7 +12,7 @@
     },
     {
       "id": "YouTube_Premium",
-      "name": "YouTube Premium",
+      "name": "YouTube Premium","description": "Disfruta de toda la Musica y Videos sin anuncios.",
       "packageName": "com.Youtube.app",
       "version": "3.4",
       "versionCode": 34,
@@ -22,7 +22,7 @@
     },
      {
       "id": "Mxl_Movies",
-      "name": "Mxl Movies",
+      "name": "Mxl Movies","description": "Peliculas y series estrenos y de todas las plataformas con la mejor calidad HD.",
       "packageName": "tv.mxlmovies.app",
       "version": "1.2",
       "versionCode": 241,
@@ -42,7 +42,7 @@
     },
       {
       "id": "rbtv+",
-      "name": "rbtv +",
+      "name": "rbtv +","description": "Todos los deportes en vivo con la mejor calidad HD.",
       "packageName": "com.rblive.tv",
       "version": "3.0",
       "versionCode": 30318,
@@ -62,7 +62,7 @@
     },
     {
       "id": "epix_play",
-      "name": "Epix Play",
+      "name": "Epix Play","description": "Peliculas y series estrenos y de todas las plataformas con la mejor calidad HD.",
       "packageName": "com.epixplay.plus",
       "version": "1.2",
       "versionCode": 377,
@@ -72,7 +72,7 @@
     },
     {
       "id": "mi_tv_pro",
-      "name": "Mi tv Pro",
+      "name": "Mi tv Pro","description": "Canales de tv ,Peliculas y series estrenos y de todas las plataformas con la mejor calidad HD.",
       "packageName": "com.mitvpro.tv",
       "version": "1.1",
       "versionCode": 5711,
@@ -81,7 +81,7 @@
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.1.1/MiTV.PRO_5.7.11.apk"
     },
     {
-      "id": "punto_play",
+      "id": "punto_play","description": "Peliculas y series estrenos y de todas las plataformas con la mejor calidad HD.",
       "name": "Punto Play",
       "packageName": "com.punto.playtv",
       "version": "1.0",
