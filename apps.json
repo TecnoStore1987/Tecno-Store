@@ -13,9 +13,9 @@
     {
       "id": "YouTube_Premium",
       "name": "YouTube Premium","description": "Disfruta de toda la Musica y Videos sin anuncios.",
-      "packageName": "com.Youtube.app",
+      "packageName": "io.gh.reisxd.tizentube.cobalt",
       "version": "3.4",
-      "versionCode": 34,
+      "versionCode": 108,
       "description": "Videos y Musica",
       "iconUrl": "https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png",
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v3.4/YouTube_base.apk"      
