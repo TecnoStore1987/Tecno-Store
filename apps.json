@@ -11,6 +11,16 @@
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v.2.0/TV.CLASICA.Nueva.actualizacion_.apkdescargas.com.apk"
     },
     {
+      "id": "tecno_player",
+      "name": "Tecno Player","description": "Canales de televisión abierta y cable en vivo, peliculas y series con la mejor calidad HD.",
+      "packageName": "com.tcnoplayer.tv",
+      "version": "1.0.1",
+      "versionCode": 101,
+      "description": "Televisión en vivo clásica",
+      "iconUrl": "",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v1.0.1/Tecno.Player.apk"
+    },
+    {
       "id": "YouTube_Premium",
       "name": "YouTube Premium","description": "Disfruta de toda la Musica y Videos sin anuncios.",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
