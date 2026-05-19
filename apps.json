@@ -41,14 +41,14 @@
       "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v2.2/movies-nogms-tvbox.apk"      
     },
      {
-      "id": "xuper_tv",
-      "name": "Xuper tv",
+      "id": "Femon_Play",
+      "name": "Femon Play",
       "packageName": "com.google.android.youtube.tvx1x",
-      "version": "4.99",
-      "versionCode": 4992,
+      "version": "1.00",
+      "versionCode": 100,
       "description": "Tv en vivo Películas y series",
-      "iconUrl": "https://xupertv-es.com/images/logo.png",
-      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v4.99/Xuper.Tv+_4.99.2modperuano.apk"      
+      "iconUrl": "",
+      "downloadUrl": "https://github.com/TecnoStore1987/Tecno-Store/releases/download/v1.00/Femon.Play_9.0.apk"      
     },
       {
       "id": "rbtv+",
